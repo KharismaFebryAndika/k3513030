@@ -1,6 +1,5 @@
 <?php
 //Komentas pertama
-//komentar kedua
 ?>
 
 <!DOCTYPE html>

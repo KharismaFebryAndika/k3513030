@@ -1,3 +1,8 @@
+<?php
+//Komentas pertama
+//komentar kedua
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

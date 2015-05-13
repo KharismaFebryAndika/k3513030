@@ -1,6 +1,8 @@
 <?php
 //Komentar pertama
 //komentar kedua
+//komentar ketiga
+//komentar keempat
 ?>
 
 <!DOCTYPE html>
